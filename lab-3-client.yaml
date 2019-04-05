@@ -1,2 +1,4 @@
 ---
-lucky-word: clover
+word-config:
+  lucky-word: clover
+  preamble: The lucky word is
